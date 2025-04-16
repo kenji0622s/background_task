@@ -1,0 +1,2 @@
+/Users/kenji/flutter/background_task/android/app/.cxx/Debug/x57612t1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/kenji/flutter/background_task/android/app/.cxx/Debug/x57612t1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
